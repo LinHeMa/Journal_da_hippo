@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to<br />林河馬的Blog
 	</h1>
 
 	<h2>
