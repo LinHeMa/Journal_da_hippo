@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>首頁</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
@@ -18,12 +18,8 @@
 			</picture>
 		</span>
 
-		to<br />林河馬的Blog
+		<span class=" text-lg font-bold">to 林河馬的Blog</span>
 	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
 
 	<Counter />
 </section>
